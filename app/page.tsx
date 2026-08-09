@@ -55,7 +55,6 @@ export default function AxionPage() {
           <div className="flex items-center gap-3">
             <div>
               <h1 className="font-bold tracking-tight text-lg">AXION</h1>
-              <p className="text-xs text-slate-400">By Weldamlak Ayenew</p>
             </div>
           </div>
           <nav className="flex items-center gap-6 text-sm text-slate-400 font-medium">
@@ -77,7 +76,7 @@ export default function AxionPage() {
         {/* Hero Section */}
         <section className="text-center space-y-6 pt-8 max-w-3xl mx-auto">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 text-xs font-semibold tracking-wide uppercase">
-            <Sparkles className="w-3.5 h-3.5" /> Next-Gen Assistive Technology
+            <Sparkles className="w-3.5 h-3.5" />By Weldamlak Ayenew
           </div>
           
           <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
